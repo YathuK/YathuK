@@ -7,6 +7,7 @@ I'm a product management leader based in Toronto, building at the intersection o
 ## What I'm Working On
 
 - **[Forge](https://github.com/YathuK/forge)** — Modern product, design & development management for the AI era
+- **[Slowday Deals](https://github.com/YathuK/slowday-deals)** — Service marketplace where providers offer special pricing on slow days
 - **[Vaa](https://github.com/YathuK/vaa)** — Social life subscription app with gamified avatar world
 
 ## What I Write About
