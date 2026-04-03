@@ -1,12 +1,11 @@
 # Hey, I'm Yathu Karunailingam
 
-**Product Manager | AI Builder | Entrepreneur**
+**Product Leader | AI Builder | Entrepreneur**
 
 I'm a product management leader based in Toronto, building at the intersection of AI and product strategy. I focus on how autonomous agents, LLMs, and AI-native workflows are reshaping how we build and ship products.
 
 ## What I'm Working On
 
-- **[NameGuard](https://github.com/YathuK/nameguard)** — AI-powered online reputation management tool for monitoring and improving Google search presence
 - **[Forge](https://github.com/YathuK/forge)** — Modern product, design & development management for the AI era
 - **[Vaa](https://github.com/YathuK/vaa)** — Social life subscription app with gamified avatar world
 
